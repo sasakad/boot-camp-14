@@ -1,4 +1,4 @@
-#fuction to calculate input output
+#fuction to find the max min
 
 def find_max_min(numbers):
 integers is list [1,2,3,4]
