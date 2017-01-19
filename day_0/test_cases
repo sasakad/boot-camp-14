@@ -12,3 +12,12 @@ class Test(unittest.TestCase):
     self.assert Equal(bool(10>(10*2)True)
     self.assert Equal(bool(15=(3*5)True)
 unittest.main()
+
+#sample
+import unitest
+class area(unittest.TestCase):
+    def test_bool(number)
+    self.assert Equal(bool(5*5)25)
+    self.assert Equal(bool(2*2)4)
+   
+unittest.main()
