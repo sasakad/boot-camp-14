@@ -1,1 +1,14 @@
 #Unit Tests
+
+def bool(n):
+  n=5<3
+  return True
+  
+import unitest
+class Test(unittest.TestCase):
+    def test_bool(number)
+    self.assert Equal(bool(5<3)False)
+    self.assert Equal(bool(10>3)True)
+    self.assert Equal(bool(10>(10*2)True)
+    self.assert Equal(bool(15=(3*5)True)
+unittest.main()
